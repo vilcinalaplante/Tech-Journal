@@ -2,7 +2,7 @@
 
 # NET 150
 ---
-[(Labs)]
+([Labs])
 [[Notes]]
 [[ETC]]
 
